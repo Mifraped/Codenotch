@@ -1,6 +1,3 @@
-function suma(op1, op2){
-    return op1 + op2
-}
 function resta(op1, op2){
     return op1 - op2
 }
@@ -13,4 +10,4 @@ function divide(op1, op2){
 function cuadrado(n){
     return n * n
 }
-module.exports = {suma, resta, multiplica, divide,cuadrado}
+module.exports = {resta, multiplica, divide,cuadrado}
